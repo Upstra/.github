@@ -6,6 +6,8 @@
 
 **Upstra** is a comprehensive, local-first infrastructure management platform designed for laboratories, research centers, and organizations requiring complete independence from cloud-based services. It provides enterprise-grade infrastructure control with a focus on power management, server orchestration, and operational resilience.
 
+You can watch the demo here ([Youtube video](https://www.youtube.com/watch%3Fv%3D9E65qXEqmWo&ved=2ahUKEwjgiPWl44-QAxWnRKQEHe_TOoQQwqsBegQIFxAH&usg=AOvVaw0lkscYGNUPx-xW4qWV-R71))
+
 ## 🎯 Overview
 
 Upstra is a full-stack infrastructure management solution that seamlessly integrates physical hardware control with virtual infrastructure management. The platform consists of three main components working in harmony:
